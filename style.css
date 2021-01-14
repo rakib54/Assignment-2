@@ -1,0 +1,92 @@
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.logo{
+    width: 300px;
+}
+.text-size{
+    font-size: 50px;
+    font-weight: 700;
+}
+.green-highlight{
+    color: rgb(54, 144, 54);
+}
+.tomato-highlight{
+    color: tomato;
+}
+.button-group{
+    border: 0;
+    
+    border-radius: 10px;
+    
+}
+.button-text{
+    font-size: 15px;
+}
+.bg-color{
+    background-color: white;
+}
+.jacket-img{
+    width: 200px;
+    height: 200px;
+}
+.feedback-bottom{
+    border-radius: 10px;
+    background-color: rgb(195, 129, 117);
+
+}
+.submit-button{
+    border-radius: 5px;
+    margin-top: 10px;
+    
+}
+.catagories-1 img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+.catagories-2 img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 59%;
+}
+.catagories-3{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 65%;
+    
+}
+.men-catagories-1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 63%;
+}
+.men-catagories-2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+.men-catagories-3{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 57%;
+}
+.card-footer{
+    border: 0;
+    background-color: white;
+}
+.card{
+    border: 0;
+    border-radius: 20px;
+    
+}
+.head-text{
+    font-size: 30px;
+    font-weight: 900;
+}
